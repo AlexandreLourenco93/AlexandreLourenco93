@@ -1,3 +1,5 @@
+# Créer par Alexandre Lourenco, Kaginthan Karunakaran, Abdoul Chacouri Ramani
+
 import pygame
 import random
 
